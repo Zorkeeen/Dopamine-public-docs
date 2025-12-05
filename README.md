@@ -1,6 +1,6 @@
 Dopamine Browser Extension – Privacy Documentation
 
-This repository hosts the public privacy and compliance documents for the Dopamine browser extensions (Chrome and Firefox).
+This repository hosts the public privacy and compliance documents for the Dopamine browser extensions.
 It does not contain application source code.
 
 Documents

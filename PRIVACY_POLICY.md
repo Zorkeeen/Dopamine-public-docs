@@ -58,5 +58,3 @@ CONTACT
 For questions, contact me at:
 simon.hallner@gmail.com
 
-For questions contact me at :
-simon.hallner@gmail.com

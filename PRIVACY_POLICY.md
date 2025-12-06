@@ -1,8 +1,8 @@
-DOPAMINE CHROME EXTENSION – PRIVACY POLICY
+DOPAMINE BROWSER EXTENSION – PRIVACY POLICY
 
-Last Updated: 2025-12-05
+Last Updated: 2025-12-06
 
-The Dopamine Chrome Extension provides local time-tracking by recording which browser tab is currently active. All processing happens entirely on your device.
+The Dopamine browser extension provides local time-tracking by recording which browser tab is currently active. All processing happens entirely on your device.
 
 DATA COLLECTED
 
@@ -10,18 +10,16 @@ The extension reads the URL and title of the currently active tab.
 
 It collects the following information:
 
-Active tab URL
-
-Active tab title
-
-Timestamp of tab focus and unfocus events
+• Active tab URL
+• Active tab title
+• Timestamps of tab focus and unfocus events
 
 The extension does not collect browsing history, search history, cookies, page content, form input, keystrokes, passwords, or any personal information.
 
 HOW DATA IS PROCESSED
 
 All data is processed locally on your device.
-The extension communicates with the Dopamine Native Host through Chrome’s Native Messaging API.
+The extension communicates with the Dopamine Native Host using each browser’s native messaging interface.
 No data is transmitted to any external server.
 
 DATA STORAGE
@@ -29,6 +27,7 @@ DATA STORAGE
 Collected data is stored only on your machine at:
 
 %APPDATA%\Dopamine\dopamine.db
+
 
 No cloud storage, remote transmission, or third-party access occurs.
 
@@ -50,7 +49,7 @@ The extension never removes data without your consent.
 
 SECURITY
 
-Communication between the extension and the native host occurs only through Chrome’s secure native messaging system.
+Communication between the extension and the native host occurs only through each browser’s native messaging system.
 The extension does not inject scripts, modify websites, access page content, or interact with anything you type.
 
 CONTACT
